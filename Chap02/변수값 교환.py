@@ -1,0 +1,12 @@
+a=1
+b=2
+x=10
+y=20
+a,b=b,a
+print("a=", a)
+print("b=", b)
+tmp=x
+x=y
+y=tmp
+print("x=", x)
+print("y=", y)
