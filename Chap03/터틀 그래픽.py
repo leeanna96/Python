@@ -8,4 +8,5 @@ while True:
     if direction=="right":
         t.right(60)
         t.forward(50)
-           
+    
+    
